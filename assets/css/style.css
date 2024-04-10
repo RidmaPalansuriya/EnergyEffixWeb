@@ -1463,6 +1463,7 @@ section {
   font-weight: 700;
   margin: 15px 0 5px 0;
   font-size: 18px;
+  text-align: center;
 }
 
 .team .member .member-info span {
@@ -1472,6 +1473,7 @@ section {
   font-weight: 400;
   margin-bottom: 15px;
   color: #68A4C4;
+  text-align: center;
 }
 
 .team .member .member-info p {
@@ -1479,6 +1481,7 @@ section {
   font-size: 14px;
   line-height: 26px;
   color: #666;
+  text-align: center;
 }
 
 .team .member:hover .social {
